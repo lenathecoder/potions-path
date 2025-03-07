@@ -7,14 +7,14 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake()
     {
-        body = GetComponent<Rigidbody2D();
+        body = GetComponent<Rigidbody2D>();
     }
 
     private void Update()
     {
-        body.linearvelocity = new Vector2(Input.GetAxis("Horizontal")*speed, body.linearvelocity.y);
+        body.linearVelocity = new Vector2(Input.GetAxis("Horizontal")*speed, body.linearVelocity.y);
 
         if(Input.GetKey(KeyCode.Space))
-            body.linearvelocity = new Vector2(body.linearvelocity.x, speed);
+            body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
     }
 }

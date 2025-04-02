@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField]private float speed;
+    private float speed=10;
     private Rigidbody2D body;
 
     private void Awake()

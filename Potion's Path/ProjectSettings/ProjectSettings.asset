@@ -687,10 +687,17 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 93accd8e-de7d-41d4-bb19-750f64d10a6f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Potion's Path 2025-03-05_15-20-14
+=======
+  cloudProjectId: 648f7558-7979-4fd9-bcce-6513006af864
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: Potion's Path 2025-03-20_13-35-34
+>>>>>>> 2fc833ac59b6ba69f4c9da737a94c150a2eeded0
   organizationId: llarson17
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

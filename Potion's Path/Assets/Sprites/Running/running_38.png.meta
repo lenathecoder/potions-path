@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 188c07530d69340ef950268a922c60b3
+guid: 3f6cc1e3829a74bb6ba44a0e4ef4b599
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5840483494547372584
-    second: Forest Concept AM_0
+      213: 8404693675433988834
+    second: running_38_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Forest Concept AM_0
+      name: running_38_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2160
-        height: 1620
+        x: 14
+        y: 77
+        width: 113
+        height: 171
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d5c8f6b43f62fea0800000000000000
-      internalID: -5840483494547372584
+      spriteID: 2e2173a2e5873a470800000000000000
+      internalID: 8404693675433988834
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Forest Concept AM_0: -5840483494547372584
+      running_38_0: 8404693675433988834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

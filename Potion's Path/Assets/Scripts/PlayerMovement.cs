@@ -6,10 +6,12 @@ public class PlayerMovement : MonoBehaviour
     private float speed = 10;
     private Rigidbody2D body;
     private bool grounded;
+    private Animator anim;
 
     private void Awake()
     {
         body = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     private void Update()

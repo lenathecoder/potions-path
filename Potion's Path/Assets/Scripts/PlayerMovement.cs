@@ -2,8 +2,10 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private float speed=10;
+
+    private float speed = 10;
     private Rigidbody2D body;
+    private bool grounded;
 
     private void Awake()
     {
@@ -12,9 +14,22 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        body.linearVelocity = new Vector2(Input.GetAxis("Horizontal")*speed, body.linearVelocity.y);
+        float horizontalInput = Input.GetAxis("Horizontal");
+        body.linearVelocity = new Vector2(horizontalInput*speed, body.linearVelocity.y);
+
+        //Flip player when moving left to right
+        if(horizontalInput > .01f)
+            transform.localScale = new Vector3(1, 1, 1);
+        if(horizontalInput<-.01f)
+            transform.localScale = new Vector3(-1, 1, 1);
 
         if(Input.GetKey(KeyCode.Space))
-            body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
+            Jump();
+    }
+
+    private void Jump()
+    {
+        body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
+        grounded = false;
     }
 }

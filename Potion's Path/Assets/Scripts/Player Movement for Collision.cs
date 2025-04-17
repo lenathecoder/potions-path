@@ -16,7 +16,7 @@ public class FairyHit : MonoBehaviour
     public void Start()
     {
         //Assign the RigidBody2D to our container
-        _rb = gameObject.GetComponent<Rigidbody2d>();
+        _rb = gameObject.GetComponent<Rigidbody2D>();
     }
 
     public void Update()
@@ -31,7 +31,7 @@ public class FairyHit : MonoBehaviour
         {
             if(_canInteract == true)
             {
-                Debug.Log('Turn on light switch');
+                Debug.Log("Turn on light switch");
             }
         }
     }
@@ -47,18 +47,33 @@ public class FairyHit : MonoBehaviour
     {
         if (_moveHorizontal != 0) //Check for player input
         {
-            _rb.linerVelocity = _currentVelocity; // Set player movement to current velocity
+            _rb.linearVelocity = _currentVelocity; // Set player movement to current velocity
     
         }
         else // If standing still
         {
             // Set player movement to zero
             _currentVelocity = new Vector2(0f, 0f);
-            _rb.linerVelocity = _currentVelocity;
+            _rb.linearVelocity = _currentVelocity;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
+
     {
-        Debug.Log(collision.gameObject)
+        if (collision.gameObject.tag == "Branch")
+        {
+            transform.position = new Vector2(-5.55f, -4.08f);
+            //collision.gameObject.GetComponent<SpriteRenderer>().enabled = false;
+        }
+    }
+
+   private void OnCollisionExit2D(Collision2D collision)
+    
+    {
+        if (collision.gameObject.tag == "Branch")
+        {
+            Debug.Log("Exit");
+        }
     }
 }
+

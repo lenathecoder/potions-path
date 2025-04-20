@@ -21,11 +21,11 @@ public class PlayerMovement : MonoBehaviour
 
         //Flip player when moving left to right
         if(horizontalInput > .01f)
-            transform.localScale = new Vector3(1, 1, 1);
-        if(horizontalInput<-.01f)
-            transform.localScale = new Vector3(-1, 1, 1);
+            transform.localScale = Vector2.one;
+        else if(horizontalInput<-.01f)
+            transform.localScale = new Vector2(-1, 1);
 
-        if(Input.GetKey(KeyCode.Space))
+        if(Input.GetKey(KeyCode.Space) && grounded)
             Jump();
     }
 
@@ -33,5 +33,10 @@ public class PlayerMovement : MonoBehaviour
     {
         body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
         grounded = false;
+    }
+    
+    private void OnCollisionEnter2D(Collision2D collision) {
+        if(collision.gameObject.tag == "Ground")
+            grounded = true;
     }
 }

@@ -275,13 +275,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.44, y: 2.22}
+    oldSize: {x: 15.762064, y: 15.179999}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 9.171572, y: 14.24687}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &207457633
 MonoBehaviour:
@@ -817,7 +817,7 @@ GameObject:
   - component: {fileID: 1833656995}
   - component: {fileID: 1833656994}
   - component: {fileID: 1833656993}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Grass
   m_TagString: Untagged
   m_Icon: {fileID: 0}

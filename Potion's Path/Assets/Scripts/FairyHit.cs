@@ -43,7 +43,7 @@ public class FairyHit : MonoBehaviour
 
 
     // Create the method for player movement
-    /*public void MovePlayer()
+    public void MovePlayer()
     {
         if (_moveHorizontal != 0) //Check for player input
         {
@@ -56,7 +56,7 @@ public class FairyHit : MonoBehaviour
             _currentVelocity = new Vector2(0f, 0f);
             _rb.linearVelocity = _currentVelocity;
         }
-    }*/
+    }
     private void OnCollisionEnter2D(Collision2D collision)
 
     {

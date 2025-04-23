@@ -133,6 +133,7 @@ GameObject:
   - component: {fileID: 207457631}
   - component: {fileID: 207457633}
   - component: {fileID: 207457634}
+  - component: {fileID: 207457635}
   m_Layer: 0
   m_Name: Fairy
   m_TagString: Untagged
@@ -295,6 +296,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc793b21522bb473a856828dfc93e41e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!95 &207457634
 Animator:
   serializedVersion: 7
@@ -317,6 +321,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &207457635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207457628}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab79316f5930e42a3a92134bfa7143be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,7 +699,7 @@ GameObject:
   - component: {fileID: 1566766952}
   - component: {fileID: 1566766951}
   - component: {fileID: 1566766953}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Left Invis Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}

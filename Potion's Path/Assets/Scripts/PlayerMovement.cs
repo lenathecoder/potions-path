@@ -39,10 +39,10 @@ public class PlayerMovement : MonoBehaviour
         grounded = false;
     }
     
-    /*private void OnCollisionEnter2D(Collision2D collision) {
+    private void OnCollisionEnter2D(Collision2D collision) {
         if(collision.gameObject.tag == "Ground")
             grounded = true;
-    }*/
+    }
 
     private void RaycastHit2D Physics2D.BoxCast(Vector 2 origin, Vector 2 size, float angle, Vector2 direction, float distance){
         

@@ -258,7 +258,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -6925492751815084609, guid: ce0bf0124abf248beab87dd6a5ab6a31, type: 3}
+  m_Sprite: {fileID: 2336118961707844879, guid: 841ca9ac9b9174d71a88a1f7e3b36f46, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -345,7 +345,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.329525, y: -0.15551925}
+  m_Offset: {x: -0.05369568, y: -0.03234136}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -355,7 +355,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 9.171572, y: 14.24687}
+  m_Size: {x: 0.7262707, y: 1.6843226}
   m_EdgeRadius: 0
 --- !u!114 &207457633
 MonoBehaviour:
@@ -369,6 +369,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc793b21522bb473a856828dfc93e41e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
 --- !u!95 &207457634
 Animator:
   serializedVersion: 7
@@ -1067,7 +1070,7 @@ GameObject:
   - component: {fileID: 1566766952}
   - component: {fileID: 1566766951}
   - component: {fileID: 1566766953}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Left Invis Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1201,7 +1204,7 @@ GameObject:
   - component: {fileID: 1833656995}
   - component: {fileID: 1833656994}
   - component: {fileID: 1833656993}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Grass
   m_TagString: Untagged
   m_Icon: {fileID: 0}

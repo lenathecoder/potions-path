@@ -36,9 +36,8 @@ public class FairyHit : MonoBehaviour
         }
     }
 
-    public void FixedUpdate()
+    /*public void FixedUpdate()
         {
-            MovePlayer();
         }
 
 
@@ -62,7 +61,7 @@ public class FairyHit : MonoBehaviour
     {
         if (collision.gameObject.tag == "Branch")
         {
-            transform.position = new Vector2(-5.55f, -4.08f);
+            transform.position = new Vector2(-9.4f, -2.83f);
             //collision.gameObject.GetComponent<SpriteRenderer>().enabled = false;
         }
     }

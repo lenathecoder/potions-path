@@ -36,14 +36,13 @@ public class FairyHit : MonoBehaviour
         }
     }
 
-    public void FixedUpdate()
+    /*public void FixedUpdate()
         {
-            MovePlayer();
         }
 
 
     // Create the method for player movement
-    public void MovePlayer()
+    /*public void MovePlayer()
     {
         if (_moveHorizontal != 0) //Check for player input
         {
@@ -56,13 +55,13 @@ public class FairyHit : MonoBehaviour
             _currentVelocity = new Vector2(0f, 0f);
             _rb.linearVelocity = _currentVelocity;
         }
-    }
+    }*/
     private void OnCollisionEnter2D(Collision2D collision)
 
     {
         if (collision.gameObject.tag == "Branch")
         {
-            transform.position = new Vector2(-5.55f, -4.08f);
+            transform.position = new Vector2(-9.4f, -2.83f);
             //collision.gameObject.GetComponent<SpriteRenderer>().enabled = false;
         }
     }

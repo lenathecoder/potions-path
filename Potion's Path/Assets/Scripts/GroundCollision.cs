@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class FairyHit : MonoBehaviour
+public class GroundCollision : MonoBehaviour
 {
     // Our components
     [SerializeField] private LayerMask groundLayer;
@@ -8,12 +8,12 @@ public class FairyHit : MonoBehaviour
     Rigidbody2D _rb; //Creat contrainer for our rigidbody
 
     // Our fields related to movement
-    float _moveHorizontal; //Get horizontal input
-    float _moveSpeed = 10f; //Out movespeed
-    Vector2 _currentVelocity; //Our current velocity
+    //float _moveHorizontal; //Get horizontal input
+    //float _moveSpeed = 10f; //Out movespeed
+    //Vector2 _currentVelocity; //Our current velocity
 
     //Trigger example
-    bool _canInteract = false;
+    //bool _canInteract = false;
 
     public void Start()
     {
@@ -21,7 +21,7 @@ public class FairyHit : MonoBehaviour
         _rb = gameObject.GetComponent<Rigidbody2D>();
     }
 
-    public void Update()
+    /*public void Update()
     {
         //Assign the player input
         _moveHorizontal = Input.GetAxisRaw("Horizontal");
@@ -36,21 +36,21 @@ public class FairyHit : MonoBehaviour
                 Debug.Log("Turn on light switch");
             }
         }
-    }
+    }*/
 
     private void OnCollisionEnter2D(Collision2D collision)
 
     {
-        if (collision.gameObject.tag == "Branch")
+        if (collision.gameObject.tag == "Ground")
         {
-            transform.position = new Vector2(-9.4f, -2.83f);
+            transform.position = new Vector2(0f, 0f);
         }
     }
 
-   private void OnCollisionExit2D(Collision2D collision)
+   /*private void OnCollisionExit2D(Collision2D collision)
     
     {
-        if (collision.gameObject.tag == "Branch")
+        if (collision.gameObject.tag == "Ground")
         {
             Debug.Log("Exit");
         }
@@ -62,4 +62,3 @@ public class FairyHit : MonoBehaviour
     }*/
 
 }
-

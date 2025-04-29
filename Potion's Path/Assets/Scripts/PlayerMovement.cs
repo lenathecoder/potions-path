@@ -6,10 +6,10 @@ public class PlayerMovement : MonoBehaviour
     private int jumpPower = 20;
     private float speed = 10;
     private Rigidbody2D body;
-    private bool grounded;
     private Animator anim;
     private BoxCollider2D boxCollider;
     private float horizontalInput;
+    private bool grounded;
 
     private void Awake()
     {
@@ -45,10 +45,10 @@ public class PlayerMovement : MonoBehaviour
         }
     }
     
-    private void OnCollisionEnter2D(Collision2D collision) {
+    /*private void OnCollisionEnter2D(Collision2D collision) {
         if(collision.gameObject.tag == "Ground")
             grounded = true;
-    }
+    }*/
     
     private bool isGrounded()
     {

@@ -1,0 +1,1842 @@
+fileFormatVersion: 2
+guid: 6bc5d61a454014889938dddde9c484b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1422058627865398257
+    second: Lives counter background_0
+  - first:
+      213: -8162340239473369925
+    second: Lives counter background_1
+  - first:
+      213: 2787792687778459865
+    second: Lives counter background_2
+  - first:
+      213: 1887568050185042078
+    second: Lives counter background_3
+  - first:
+      213: 7093133253616078417
+    second: Lives counter background_4
+  - first:
+      213: 907246274279474624
+    second: Lives counter background_5
+  - first:
+      213: 2339158109758604721
+    second: Lives counter background_6
+  - first:
+      213: -9068445456233545834
+    second: Lives counter background_7
+  - first:
+      213: -6901699657428863603
+    second: Lives counter background_8
+  - first:
+      213: 1056546886692316175
+    second: Lives counter background_9
+  - first:
+      213: 3187003993437312515
+    second: Lives counter background_10
+  - first:
+      213: -901580520346672461
+    second: Lives counter background_11
+  - first:
+      213: 6560244401935429407
+    second: Lives counter background_12
+  - first:
+      213: 5551344224369308137
+    second: Lives counter background_13
+  - first:
+      213: 2309019292988312408
+    second: Lives counter background_14
+  - first:
+      213: 856113570992078793
+    second: Lives counter background_15
+  - first:
+      213: 1142039613759047023
+    second: Lives counter background_16
+  - first:
+      213: -8100029255781597963
+    second: Lives counter background_17
+  - first:
+      213: -269017323797357121
+    second: Lives counter background_18
+  - first:
+      213: 4873352008699147367
+    second: Lives counter background_19
+  - first:
+      213: -1608946959531384383
+    second: Lives counter background_20
+  - first:
+      213: -1676624681720934324
+    second: Lives counter background_21
+  - first:
+      213: -8591103515894108867
+    second: Lives counter background_22
+  - first:
+      213: -2681972769326237884
+    second: Lives counter background_23
+  - first:
+      213: 768322521874573616
+    second: Lives counter background_24
+  - first:
+      213: 5144937957898898651
+    second: Lives counter background_25
+  - first:
+      213: 3210141035181458131
+    second: Lives counter background_26
+  - first:
+      213: -8476369783477640011
+    second: Lives counter background_27
+  - first:
+      213: 4970242777804852396
+    second: Lives counter background_28
+  - first:
+      213: -369103608877570629
+    second: Lives counter background_29
+  - first:
+      213: -6955026096105451474
+    second: Lives counter background_30
+  - first:
+      213: 8095376337902799169
+    second: Lives counter background_31
+  - first:
+      213: 438472534109212645
+    second: Lives counter background_32
+  - first:
+      213: -8252287287918526803
+    second: Lives counter background_33
+  - first:
+      213: 8191811620353466353
+    second: Lives counter background_34
+  - first:
+      213: 4388874424658463173
+    second: Lives counter background_35
+  - first:
+      213: -4176817217557364809
+    second: Lives counter background_36
+  - first:
+      213: 3142493183947595270
+    second: Lives counter background_37
+  - first:
+      213: -508237188931884087
+    second: Lives counter background_38
+  - first:
+      213: 2775220155986005490
+    second: Lives counter background_39
+  - first:
+      213: -8845926272537739202
+    second: Lives counter background_40
+  - first:
+      213: -6040587499802362869
+    second: Lives counter background_41
+  - first:
+      213: 7924786835120016816
+    second: Lives counter background_42
+  - first:
+      213: 8877374310092316657
+    second: Lives counter background_43
+  - first:
+      213: 3734384096398265877
+    second: Lives counter background_44
+  - first:
+      213: 3378121457582148395
+    second: Lives counter background_45
+  - first:
+      213: 8994243923499737071
+    second: Lives counter background_46
+  - first:
+      213: -1417943446595310469
+    second: Lives counter background_47
+  - first:
+      213: 6796100570780991690
+    second: Lives counter background_48
+  - first:
+      213: -8476544913574525471
+    second: Lives counter background_49
+  - first:
+      213: -5586925573970733446
+    second: Lives counter background_50
+  - first:
+      213: -7643694225534213120
+    second: Lives counter background_51
+  - first:
+      213: 7102274175393784397
+    second: Lives counter background_52
+  - first:
+      213: 2878128174395250195
+    second: Lives counter background_53
+  - first:
+      213: -1502820180586600116
+    second: Lives counter background_54
+  - first:
+      213: 1937140705627557781
+    second: Lives counter background_55
+  - first:
+      213: 483053851537737380
+    second: Lives counter background_56
+  - first:
+      213: -6500035158368311954
+    second: Lives counter background_57
+  - first:
+      213: -6531138073643771415
+    second: Lives counter background_58
+  - first:
+      213: 5555467313338367638
+    second: Lives counter background_59
+  - first:
+      213: -6664862319899118945
+    second: Lives counter background_60
+  - first:
+      213: 2898416638392011736
+    second: Lives counter background_61
+  - first:
+      213: -603892367334527900
+    second: Lives counter background_62
+  - first:
+      213: 6694381143173662981
+    second: Lives counter background_63
+  - first:
+      213: -7829524418757478361
+    second: Lives counter background_64
+  - first:
+      213: 4579596219485834766
+    second: Lives counter background_65
+  - first:
+      213: -7034330684365785153
+    second: Lives counter background_66
+  - first:
+      213: 7696032480456966418
+    second: Lives counter background_67
+  - first:
+      213: -5134039625253996110
+    second: Lives counter background_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lives counter background_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1376
+        width: 166
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04bd4c5635d34ce0800000000000000
+      internalID: -1422058627865398257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1377
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc10525cca89be80800000000000000
+      internalID: -8162340239473369925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1377
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0777eddaa30b620800000000000000
+      internalID: 2787792687778459865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1377
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98f7a0142df13a10800000000000000
+      internalID: 1887568050185042078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1376
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e0c46fc1fdf6260800000000000000
+      internalID: 7093133253616078417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5893efdaf279c00800000000000000
+      internalID: 907246274279474624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c2ad48eb567020800000000000000
+      internalID: 2339158109758604721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb13c77e8662280800000000000000
+      internalID: -9068445456233545834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1382
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8574847abc3830a0800000000000000
+      internalID: -6901699657428863603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0427ddabcb99ae00800000000000000
+      internalID: 1056546886692316175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1376
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306159e1f338a3c20800000000000000
+      internalID: 3187003993437312515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_11
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1382
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b223542b41fc73f0800000000000000
+      internalID: -901580520346672461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_12
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f2b11a68baa0b50800000000000000
+      internalID: 6560244401935429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1382
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f277e8265a0d40800000000000000
+      internalID: 5551344224369308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b871230d84b0020800000000000000
+      internalID: 2309019292988312408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1382
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfbf56c1c681eb00800000000000000
+      internalID: 856113570992078793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1376
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6548895af659df00800000000000000
+      internalID: 1142039613759047023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_17
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcbdd2ce4ae69f80800000000000000
+      internalID: -8100029255781597963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1381
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdd1a85b22444cf0800000000000000
+      internalID: -269017323797357121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_19
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f2ffe4df91a340800000000000000
+      internalID: 4873352008699147367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1efaec34fdba9e0800000000000000
+      internalID: -1608946959531384383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1376
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c401f503cbe6bb8e0800000000000000
+      internalID: -1676624681720934324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1376
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3da582bed446c880800000000000000
+      internalID: -8591103515894108867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1376
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447f90bd9f7b7cad0800000000000000
+      internalID: -2681972769326237884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_24
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1376
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039244d4341a9aa00800000000000000
+      internalID: 768322521874573616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1381
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcccfb40dd766740800000000000000
+      internalID: 5144937957898898651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_26
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1381
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d245e07346bc8c20800000000000000
+      internalID: 3210141035181458131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1375
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4e5f67792ed5a80800000000000000
+      internalID: -8476369783477640011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1374
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac42821979d9f440800000000000000
+      internalID: 4970242777804852396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1380
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a98b293ea0eaf0800000000000000
+      internalID: -369103608877570629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1380
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20101a6d98ca7f90800000000000000
+      internalID: -6955026096105451474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_31
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1380
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1498ccf53ed885070800000000000000
+      internalID: 8095376337902799169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_32
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1374
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef48575274c51600800000000000000
+      internalID: 438472534109212645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1380
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daef4232f6cf97d80800000000000000
+      internalID: -8252287287918526803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_34
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1380
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffd51244492fa170800000000000000
+      internalID: 8191811620353466353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_35
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1374
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98095390a68ec30800000000000000
+      internalID: 4388874424658463173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_36
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1374
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bff1cfced6f806c0800000000000000
+      internalID: -4176817217557364809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_37
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1379
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e5842b6e06c9b20800000000000000
+      internalID: 3142493183947595270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_38
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1379
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb621c28f062f8f0800000000000000
+      internalID: -508237188931884087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_39
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1373
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdcc033700938620800000000000000
+      internalID: 2775220155986005490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_40
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1379
+        width: 70
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c7104ce4fc3580800000000000000
+      internalID: -8845926272537739202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_41
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1379
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c7d9f5ca58b2ca0800000000000000
+      internalID: -6040587499802362869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_42
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1378
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd4504a3af7afd60800000000000000
+      internalID: 7924786835120016816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_43
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1378
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff1b3396e4c23b70800000000000000
+      internalID: 8877374310092316657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_44
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1372
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecfa0dc8233d330800000000000000
+      internalID: 3734384096398265877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_45
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1372
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b0f4f419f71ee20800000000000000
+      internalID: 3378121457582148395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_46
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1372
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefda63e139f1dc70800000000000000
+      internalID: 8994243923499737071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_47
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1372
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce71aa2f3725ce0800000000000000
+      internalID: -1417943446595310469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_48
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 804
+        width: 1428
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac00b3b3679905e50800000000000000
+      internalID: 6796100570780991690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_49
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1375
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50fbfcf434d5a80800000000000000
+      internalID: -8476544913574525471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_50
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1374
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76dde09ac04772b0800000000000000
+      internalID: -5586925573970733446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_51
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1374
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004245399942ce590800000000000000
+      internalID: -7643694225534213120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_52
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1374
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42e6c9abb8509260800000000000000
+      internalID: 7102274175393784397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_53
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1374
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3165fdc535a21f720800000000000000
+      internalID: 2878128174395250195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_54
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1374
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e8de0209e42be0800000000000000
+      internalID: -1502820180586600116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_55
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1374
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f41e6553b12ea10800000000000000
+      internalID: 1937140705627557781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_56
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1374
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68a4c2be624b600800000000000000
+      internalID: 483053851537737380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_57
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1374
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6528ed467c3bc5a0800000000000000
+      internalID: -6500035158368311954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_58
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1374
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91f65868cbc55a0800000000000000
+      internalID: -6531138073643771415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_59
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1374
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb3dc561cf81d40800000000000000
+      internalID: 5555467313338367638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_60
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1373
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f6813807a183a0800000000000000
+      internalID: -6664862319899118945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_61
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1373
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db007e739e393820800000000000000
+      internalID: 2898416638392011736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_62
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1372
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca47a671b8e97f0800000000000000
+      internalID: -603892367334527900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_63
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1372
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50980fd6e2837ec50800000000000000
+      internalID: 6694381143173662981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_64
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1372
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b6b31601f75390800000000000000
+      internalID: -7829524418757478361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_65
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1372
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ecc257f7efd8f30800000000000000
+      internalID: 4579596219485834766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_66
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1372
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb73fb51389016e90800000000000000
+      internalID: -7034330684365785153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_67
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1372
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211818104cccdca60800000000000000
+      internalID: 7696032480456966418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lives counter background_68
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1372
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b4f1892a30c8b0800000000000000
+      internalID: -5134039625253996110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

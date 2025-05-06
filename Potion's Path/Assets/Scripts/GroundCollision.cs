@@ -8,12 +8,12 @@ public class GroundCollision : MonoBehaviour
     Rigidbody2D _rb; //Creat contrainer for our rigidbody
 
     // Our fields related to movement
-    //float _moveHorizontal; //Get horizontal input
-    //float _moveSpeed = 10f; //Out movespeed
-    //Vector2 _currentVelocity; //Our current velocity
+    float _moveHorizontal; //Get horizontal input
+    float _moveSpeed = 10f; //Out movespeed
+    Vector2 _currentVelocity; //Our current velocity
 
     //Trigger example
-    //bool _canInteract = false;
+    bool _canInteract = false;
 
     public void Start()
     {
@@ -21,7 +21,7 @@ public class GroundCollision : MonoBehaviour
         _rb = gameObject.GetComponent<Rigidbody2D>();
     }
 
-    /*public void Update()
+    public void Update()
     {
         //Assign the player input
         _moveHorizontal = Input.GetAxisRaw("Horizontal");
@@ -36,7 +36,7 @@ public class GroundCollision : MonoBehaviour
                 Debug.Log("Turn on light switch");
             }
         }
-    }*/
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
 
@@ -54,7 +54,7 @@ public class GroundCollision : MonoBehaviour
         {
             Debug.Log("Exit");
         }
-    }
+    }*/
 
     /*private void OnCollisionEnter2D(Collision2D collision) {
         if(collision.gameObject.tag == "Ground")

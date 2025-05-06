@@ -14,7 +14,19 @@ GameObject:
   - component: {fileID: 5138917029906993303}
   m_Layer: 0
   m_Name: branch 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD:Potion's Path/Assets/Prefabs/the real branch.prefab
   m_TagString: Player
+=======
+  m_TagString: Branch
+>>>>>>> parent of 9f40201 (Changed the branch and made it easier):Potion's Path/Assets/Prefabs/branch 1.prefab
+=======
+  m_TagString: Branch
+>>>>>>> parent of 2586a12 (Merge branch 'main' of https://github.com/lenathecoder/potions-path)
+=======
+  m_TagString: Branch
+>>>>>>> parent of 2586a12 (Merge branch 'main' of https://github.com/lenathecoder/potions-path)
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

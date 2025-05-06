@@ -1410,6 +1410,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: branch
       objectReference: {fileID: 0}
+    - target: {fileID: 1023533019308997406, guid: 4cae7cbe9eae042e2bf883fd84183736, type: 3}
+      propertyPath: m_TagString
+      value: Branch
+      objectReference: {fileID: 0}
     - target: {fileID: 8338738844771382988, guid: 4cae7cbe9eae042e2bf883fd84183736, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3f30a2097ed2240b6b442da72e134800
+guid: 1330bfc63f4854e79870fbe3f89fcbb0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3678019509798288174
-    second: Heart lives counter_0
+      213: -5470967907528727878
+    second: dry-wooden-tree-branches-set-cartoon-vector-42302599_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Heart lives counter_0
+      name: dry-wooden-tree-branches-set-cartoon-vector-42302599_0
       rect:
         serializedVersion: 2
-        x: 406
-        y: 950
-        width: 320
-        height: 256
+        x: 96
+        y: 488
+        width: 808
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2bbb76d143fa0330800000000000000
-      internalID: 3678019509798288174
+      spriteID: ab2203eaca73314b0800000000000000
+      internalID: -5470967907528727878
       vertices: []
       indices: 
       edges: []
@@ -134,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dry-wooden-tree-branches-set-cartoon-vector-42302599_0: -5470967907528727878
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

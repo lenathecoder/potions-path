@@ -28,6 +28,7 @@ public class CameraShakeScript : MonoBehaviour
             float y = Random.Range(-1f, 1f) * size;
 
             Vector2 position = new Vector2(x, y);
+            
             /* linearly interpolates between a and b by t (estimates unknown value between x and y)
             formula: y = y1 + ((x - x1) * (y2 - y1)) / (x2 - x1) */
             playerCam.localPosition = Vector2.Lerp(playerCam.localPosition, position, Time.deltaTime * 5f); 

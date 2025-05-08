@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1330bfc63f4854e79870fbe3f89fcbb0
+guid: 51d58ada14aa94a1b80eb8386698bce1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5470967907528727878
-    second: dry-wooden-tree-branches-set-cartoon-vector-42302599_0
+      213: 686297838529610056
+    second: Final.Swamp.Background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dry-wooden-tree-branches-set-cartoon-vector-42302599_0
+      name: Final.Swamp.Background_0
       rect:
         serializedVersion: 2
-        x: 96
-        y: 488
-        width: 808
-        height: 217
+        x: 0
+        y: 0
+        width: 2160
+        height: 1620
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab2203eaca73314b0800000000000000
-      internalID: -5470967907528727878
+      spriteID: 8410dab7f38368900800000000000000
+      internalID: 686297838529610056
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      dry-wooden-tree-branches-set-cartoon-vector-42302599_0: -5470967907528727878
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

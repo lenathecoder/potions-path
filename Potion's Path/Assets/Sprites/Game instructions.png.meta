@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f2451f57e9dbe4f09936020054e78007
+guid: cf3c6da0f27484850a5fe11079b7c473
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4438370541146361172
-    second: idle_01_0
+      213: -4115290485223724365
+    second: Game instructions_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle_01_0
+      name: Game instructions_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 80
-        width: 60
-        height: 198
+        x: 0
+        y: 0
+        width: 1620
+        height: 2160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45d469edd72489d30800000000000000
-      internalID: 4438370541146361172
+      spriteID: 3bae1b08b1d83e6c0800000000000000
+      internalID: -4115290485223724365
       vertices: []
       indices: 
       edges: []

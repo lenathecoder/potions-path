@@ -9,7 +9,6 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     private BoxCollider2D boxCollider;
     private float horizontalInput;
-    private bool grounded;
 
     private void Awake()
     {
@@ -30,7 +29,6 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector2(-1, 1);
 
         anim.SetBool("run", horizontalInput != 0);
-        anim.SetBool("grounded", isGrounded());
 
         if(Input.GetKey(KeyCode.Space))
             Jump();
@@ -41,14 +39,9 @@ public class PlayerMovement : MonoBehaviour
         if(isGrounded())
         {
             body.linearVelocity = new Vector2(body.linearVelocity.x, jumpPower);
-            grounded = false;
         }
     }
-    
-    /*private void OnCollisionEnter2D(Collision2D collision) {
-        if(collision.gameObject.tag == "Ground")
-            grounded = true;
-    }*/
+
     
     private bool isGrounded()
     {

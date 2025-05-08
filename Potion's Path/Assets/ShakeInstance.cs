@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ShakeInstance : MonoBehaviour
+/*public class ShakeInstance : MonoBehaviour
 {
 
     void Start()
@@ -8,4 +8,4 @@ public class ShakeInstance : MonoBehaviour
         CameraShakeScript.instance.ShakeCamera(2f, 1.2f);
     }
 
-}
+}*/

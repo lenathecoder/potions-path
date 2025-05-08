@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Branch
   - hitLayer
+  - platform
   layers:
   - Default
   - TransparentFX

@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: d46c9a4f2b9f64a7da99553a92ca991f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7962865018929855784
+    second: New lives counter background!!!!_0
+  - first:
+      213: -5130256037136150723
+    second: New lives counter background!!!!_1
+  - first:
+      213: 7697934077356561593
+    second: New lives counter background!!!!_2
+  - first:
+      213: -4660021690380217781
+    second: New lives counter background!!!!_3
+  - first:
+      213: 8870728909479243382
+    second: New lives counter background!!!!_4
+  - first:
+      213: 6347303394611045215
+    second: New lives counter background!!!!_5
+  - first:
+      213: 8797618491145995181
+    second: New lives counter background!!!!_6
+  - first:
+      213: -952192121683490468
+    second: New lives counter background!!!!_7
+  - first:
+      213: -4835656346396832504
+    second: New lives counter background!!!!_8
+  - first:
+      213: -1099526514559056331
+    second: New lives counter background!!!!_9
+  - first:
+      213: 8643719466028977810
+    second: New lives counter background!!!!_10
+  - first:
+      213: 4357273845250963940
+    second: New lives counter background!!!!_11
+  - first:
+      213: 159955983448833220
+    second: New lives counter background!!!!_12
+  - first:
+      213: -4135251922816127367
+    second: New lives counter background!!!!_13
+  - first:
+      213: -2975298169004512323
+    second: New lives counter background!!!!_14
+  - first:
+      213: 3813091719721649566
+    second: New lives counter background!!!!_15
+  - first:
+      213: -4850115612965096220
+    second: New lives counter background!!!!_16
+  - first:
+      213: 3216902461846536023
+    second: New lives counter background!!!!_17
+  - first:
+      213: -7327065246970978802
+    second: New lives counter background!!!!_18
+  - first:
+      213: 3841647579601043310
+    second: New lives counter background!!!!_19
+  - first:
+      213: 518663146833437044
+    second: New lives counter background!!!!_20
+  - first:
+      213: 883560542907747538
+    second: New lives counter background!!!!_21
+  - first:
+      213: -6487597557735490064
+    second: New lives counter background!!!!_22
+  - first:
+      213: 5992975554170804097
+    second: New lives counter background!!!!_23
+  - first:
+      213: -4198021626799526381
+    second: New lives counter background!!!!_24
+  - first:
+      213: 116824543467418613
+    second: New lives counter background!!!!_25
+  - first:
+      213: 5510679983191992020
+    second: New lives counter background!!!!_26
+  - first:
+      213: -1661450786298172064
+    second: New lives counter background!!!!_27
+  - first:
+      213: 4855905585249831927
+    second: New lives counter background!!!!_28
+  - first:
+      213: -4188251352071358813
+    second: New lives counter background!!!!_29
+  - first:
+      213: -8256080801499442108
+    second: New lives counter background!!!!_30
+  - first:
+      213: 5684668113591453151
+    second: New lives counter background!!!!_31
+  - first:
+      213: -5868655417073421650
+    second: New lives counter background!!!!_32
+  - first:
+      213: -1427159732211190326
+    second: New lives counter background!!!!_33
+  - first:
+      213: -3731814052652201973
+    second: New lives counter background!!!!_34
+  - first:
+      213: 2733786285582931837
+    second: New lives counter background!!!!_35
+  - first:
+      213: 9040545535661087757
+    second: New lives counter background!!!!_36
+  - first:
+      213: -5373153983123656299
+    second: New lives counter background!!!!_37
+  - first:
+      213: 4835426233400201072
+    second: New lives counter background!!!!_38
+  - first:
+      213: 5319711295352712030
+    second: New lives counter background!!!!_39
+  - first:
+      213: -7753942395408314151
+    second: New lives counter background!!!!_40
+  - first:
+      213: -4692179868262686997
+    second: New lives counter background!!!!_41
+  - first:
+      213: 8918424294089302663
+    second: New lives counter background!!!!_42
+  - first:
+      213: -7115417059536300140
+    second: New lives counter background!!!!_43
+  - first:
+      213: -5513789120252797441
+    second: New lives counter background!!!!_44
+  - first:
+      213: -5241529430915631837
+    second: New lives counter background!!!!_45
+  - first:
+      213: 8130420477261146212
+    second: New lives counter background!!!!_46
+  - first:
+      213: 4731911039496964215
+    second: New lives counter background!!!!_47
+  - first:
+      213: -1359440211420666609
+    second: New lives counter background!!!!_48
+  - first:
+      213: 4755435080747796729
+    second: New lives counter background!!!!_49
+  - first:
+      213: -8841177344439824417
+    second: New lives counter background!!!!_50
+  - first:
+      213: 7083611274823183979
+    second: New lives counter background!!!!_51
+  - first:
+      213: -2694620259551101218
+    second: New lives counter background!!!!_52
+  - first:
+      213: -8900787046502645756
+    second: New lives counter background!!!!_53
+  - first:
+      213: -2777727676280292201
+    second: New lives counter background!!!!_54
+  - first:
+      213: -8788019697754227558
+    second: New lives counter background!!!!_55
+  - first:
+      213: -3182149431167031991
+    second: New lives counter background!!!!_56
+  - first:
+      213: -7472461214637565595
+    second: New lives counter background!!!!_57
+  - first:
+      213: 7138707406317624851
+    second: New lives counter background!!!!_58
+  - first:
+      213: -5338896554085440970
+    second: New lives counter background!!!!_59
+  - first:
+      213: -1478110388152590850
+    second: New lives counter background!!!!_60
+  - first:
+      213: 868287442917271777
+    second: New lives counter background!!!!_61
+  - first:
+      213: 463151396417137327
+    second: New lives counter background!!!!_62
+  - first:
+      213: -4603528354172970825
+    second: New lives counter background!!!!_63
+  - first:
+      213: 7244366387294903936
+    second: New lives counter background!!!!_64
+  - first:
+      213: 2886657774010014825
+    second: New lives counter background!!!!_65
+  - first:
+      213: -6962872261481750357
+    second: New lives counter background!!!!_66
+  - first:
+      213: -4331099290142885709
+    second: New lives counter background!!!!_67
+  - first:
+      213: 7124841000749179462
+    second: New lives counter background!!!!_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New lives counter background!!!!_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 958
+        width: 166
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82db2bfab87c18e60800000000000000
+      internalID: 7962865018929855784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_1
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 959
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f42b3c05badc8b0800000000000000
+      internalID: -5130256037136150723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 959
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b45639024e84da60800000000000000
+      internalID: 7697934077356561593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 959
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42954366f6445fb0800000000000000
+      internalID: -4660021690380217781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_4
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 958
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e6c4ca1f82b1b70800000000000000
+      internalID: 8870728909479243382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f532c65dec6261850800000000000000
+      internalID: 6347303394611045215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da34a2ae76b671a70800000000000000
+      internalID: 8797618491145995181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59412d6f4229c2f0800000000000000
+      internalID: -952192121683490468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 964
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d47216c2c44ecb0800000000000000
+      internalID: -4835656346396832504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_9
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368596e572bdb0f0800000000000000
+      internalID: -1099526514559056331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_10
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 958
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e49c6de09a4f770800000000000000
+      internalID: 8643719466028977810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 964
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9b847f975287c30800000000000000
+      internalID: 4357273845250963940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc7a259e17483200800000000000000
+      internalID: 159955983448833220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_13
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 964
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e2bc32942ac96c0800000000000000
+      internalID: -4135251922816127367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbad9f341e95b6d0800000000000000
+      internalID: -2975298169004512323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 964
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950ef967b2dae430800000000000000
+      internalID: 3813091719721649566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 958
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b3a90c8de0bcb0800000000000000
+      internalID: -4850115612965096220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f3173cebbb4ac20800000000000000
+      internalID: 3216902461846536023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_18
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 963
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e5f247af8015a90800000000000000
+      internalID: -7327065246970978802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ffb56ae16405530800000000000000
+      internalID: 3841647579601043310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_20
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471e7115269a23700800000000000000
+      internalID: 518663146833437044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_21
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 958
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc4199e1a9034c00800000000000000
+      internalID: 883560542907747538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 958
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdfb7dd46c67f5a0800000000000000
+      internalID: -6487597557735490064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 958
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18753fda3835b2350800000000000000
+      internalID: 5992975554170804097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 958
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee43f8291adb5c0800000000000000
+      internalID: -4198021626799526381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_25
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 963
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f33c66ad4b0f9100800000000000000
+      internalID: 116824543467418613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_26
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 963
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6a3057f3ed97c40800000000000000
+      internalID: 5510679983191992020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_27
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 957
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d67e6005751f8e0800000000000000
+      internalID: -1661450786298172064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_28
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 956
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc6afe664a36340800000000000000
+      internalID: 4855905585249831927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_29
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 962
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6bcb9e59750e5c0800000000000000
+      internalID: -4188251352071358813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_30
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 962
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44414bde0428c6d80800000000000000
+      internalID: -8256080801499442108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_31
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 962
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5cb98d78ff3ee40800000000000000
+      internalID: 5684668113591453151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_32
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 956
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ba2cddf85e8ea0800000000000000
+      internalID: -5868655417073421650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_33
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 962
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57fc3f8c5b13ce0800000000000000
+      internalID: -1427159732211190326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_34
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 962
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08cadf14eee53cc0800000000000000
+      internalID: -3731814052652201973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_35
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 956
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77510c742c50f520800000000000000
+      internalID: 2733786285582931837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_36
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 956
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c92dc0448767d70800000000000000
+      internalID: 9040545535661087757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_37
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 961
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917078abe8be65b0800000000000000
+      internalID: -5373153983123656299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_38
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 961
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8c634a82ea1340800000000000000
+      internalID: 4835426233400201072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_39
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 955
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba123fc3963d940800000000000000
+      internalID: 5319711295352712030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_40
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 961
+        width: 70
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d098d83976746490800000000000000
+      internalID: -7753942395408314151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_41
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 961
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee96f1254702eeb0800000000000000
+      internalID: -4692179868262686997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_42
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 960
+        width: 57
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822865c4ab94cb70800000000000000
+      internalID: 8918424294089302663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_43
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 960
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497959922e5f04d90800000000000000
+      internalID: -7115417059536300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_44
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 954
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1be822061b73b0800000000000000
+      internalID: -5513789120252797441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_45
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 954
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325b48ed0c85247b0800000000000000
+      internalID: -5241529430915631837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_46
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 954
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46866b5e85e05d070800000000000000
+      internalID: 8130420477261146212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_47
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 954
+        width: 53
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77847f905002ba140800000000000000
+      internalID: 4731911039496964215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_48
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 386
+        width: 1428
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a3e0945c422de0800000000000000
+      internalID: -1359440211420666609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_49
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 957
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84764b203bef140800000000000000
+      internalID: 4755435080747796729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_50
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 956
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfce6c3c04dd4580800000000000000
+      internalID: -8841177344439824417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 956
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ea9c28cea0e4260800000000000000
+      internalID: 7083611274823183979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_52
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 956
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb2e09629ca9ad0800000000000000
+      internalID: -2694620259551101218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_53
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 956
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400cfcfe65d0a7480800000000000000
+      internalID: -8900787046502645756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_54
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 956
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cba8c35678379d0800000000000000
+      internalID: -2777727676280292201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_55
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c393455aeaa0680800000000000000
+      internalID: -8788019697754227558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_56
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e31db3fbb6d3d0800000000000000
+      internalID: -3182149431167031991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_57
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 956
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d4a7bd1c7c4890800000000000000
+      internalID: -7472461214637565595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_58
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 956
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e13054098c11360800000000000000
+      internalID: 7138707406317624851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_59
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 956
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6322e29eedd68e5b0800000000000000
+      internalID: -5338896554085440970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_60
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 955
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd995fee62bc7be0800000000000000
+      internalID: -1478110388152590850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_61
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 955
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8240634d6cc0c00800000000000000
+      internalID: 868287442917271777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_62
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 954
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6bacbdb17d6600800000000000000
+      internalID: 463151396417137327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_63
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 954
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8d4183a5bfc10c0800000000000000
+      internalID: -4603528354172970825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_64
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 954
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e1e71d8d8298460800000000000000
+      internalID: 7244366387294903936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_65
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 954
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c9cf783f77f0820800000000000000
+      internalID: 2886657774010014825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_66
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 954
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0a5fda198ee5f90800000000000000
+      internalID: -6962872261481750357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_67
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 954
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8361c8428d4e3c0800000000000000
+      internalID: -4331099290142885709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New lives counter background!!!!_68
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 954
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6422bc2242580e260800000000000000
+      internalID: 7124841000749179462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

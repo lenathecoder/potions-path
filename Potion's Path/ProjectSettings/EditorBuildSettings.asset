@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelTwo.unity
     guid: 0732d160c2d594cae80f997596107208
+  - enabled: 1
+    path: Assets/Scenes/Gazebo.unity
+    guid: f3de61e8c7e2446b5af7f1d07174480f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
